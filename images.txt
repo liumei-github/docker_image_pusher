@@ -1,2 +1,1 @@
-kolla/centos-binary-glance-api:train
-kolla/centos-binary-mariadb:train
+kolla/centos-binary-prometheus-memcached-exporter:train
