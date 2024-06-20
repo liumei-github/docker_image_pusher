@@ -1,1 +1,1 @@
-kolla/centos-binary-prometheus-memcached-exporter:train
+kolla/centos-binary-*:train
