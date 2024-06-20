@@ -1,4 +1,4 @@
-kolla/prometheus-blackbox-exporter:train
+kolla/centos-binary-prometheus-blackbox-exporter:train
 kolla/centos-binary-prometheus-node-exporter:train
 kolla/centos-binary-rabbitmq:train
 kolla/centos-binary-haproxy:train
