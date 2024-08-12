@@ -1,1 +1,1 @@
-kolla/centos-binary-grafana:train
+apachecn0/hands-on-ml-2e-zh
